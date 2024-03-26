@@ -26,5 +26,5 @@ We welcome contributions from developers interested in enhancing the simulation,
 
 Explore the repository, dive into the code, and embark on a journey through our simulated solar system! 🌌🚀
 
-## Screenshot:
+## SnapShot:
 ![](Screenshot.png)
