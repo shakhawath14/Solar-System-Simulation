@@ -25,3 +25,5 @@ Welcome to our Solar System Simulation project! Here, we utilized the power of P
 We welcome contributions from developers interested in enhancing the simulation, adding features, or optimizing performance. Join us in exploring the cosmos through code!
 
 Explore the repository, dive into the code, and embark on a journey through our simulated solar system! 🌌🚀
+
+![](Screenshot.png)
