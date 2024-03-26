@@ -1,6 +1,6 @@
 # Solar System Simulation
 
-Welcome to our Solar System Simulation project! Here, we utilized the power of Pygame and OpenGL to create an immersive 2D simulation of our solar system. Pygame, a versatile Python package for game development, coupled with OpenGL's capabilities for 3D graphics, enabled us to bring the celestial bodies of our solar system to life on your screen.
+Welcome to our Solar System Simulation project! Here, we utilized the power of Pygame and OpenGL to create an immersive 2D simulation of our solar system. Pygame, a versatile Python package for game development, coupled with OpenGL's capabilities, enabled us to bring the celestial bodies of our solar system to life on your screen.
 
 ## Project Features:
 - Solar System Simulation: Experience the orbits and rotations of the Sun and four planets (Mercury, Venus, Earth, and Mars) in a visually captivating environment.
